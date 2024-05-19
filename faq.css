@@ -1,0 +1,17 @@
+.card:hover .card-body {
+    transition: transform 0.3s ease;
+    transform: scale(1.05);
+}
+.card-title{
+    color: #007bff;
+}
+.card-title:hover{
+    color: #007bff;
+}
+.card-text{
+    opacity: 0.9;
+    font-size: 17px;
+}
+.card-text:hover{
+    font-weight: bold;
+}
